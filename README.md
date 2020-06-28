@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Laravel software development at ESP Projects
+- 🔭 I’m currently working on Laravel software development stuffs
 - 🌱 I’m currently learning PHP 7.3, as required by working on Laravel apps!
 - 👯 I’m looking to collaborate on some UI stuff, it's always been an interest.
 - 💬 Ask me about any TypeScript-related stuff, and I could *probably* help out with some PHP stuff too. If you ask nice. 😉
